@@ -5,7 +5,7 @@
   <li>In this app i have used Functional Components and Hooks.</li>
   <li>Weather buddy is an React App which gives us weather information of specific city.</li>
   <li>The user can search city and will get weather information related to that city.</li> 
-  <li>Live preview <a href="https://vilas-weatherbuddy.netlify.app/" target="_blank">demo</a>
+  <li>Live preview <a href="https://vilas-weatherbuddy.netlify.app/" target="_self"><h3>demo</h3></a>
 </ul>
 
 # Getting Started with Create React App
