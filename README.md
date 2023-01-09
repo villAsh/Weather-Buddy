@@ -1,5 +1,10 @@
 
 # Weather-Buddy
+<ul>
+  <li>Weather Buddy is created using ReactJS and TailwindCSS and for Weather API i have used OpenWeatherApi. </li>
+  <li>Weather buddy is an React App which gives us weather information of specific city.</li>
+  <li>The user can search city and will get weather information related to that city.</li>
+</ul>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
